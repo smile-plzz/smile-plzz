@@ -1,27 +1,20 @@
-# 👋 Hi, I'm Ismail
+![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=smile-plzz&show_icons=true&theme=radical)
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smile-plzz&show_icons=true&theme=radical" width="48%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smile-plzz&layout=compact&theme=radical" width="48%" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smile-plzz&layout=compact&theme=radical)
 
-<p align="center">
-  [![Visit Ismail's Portfolio](https://img.shields.io/badge/Visit_Ismail's_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://smile-plzz.github.io/Ismail_Hossain/)
-</p>
+[![Ismail's Portfolio](https://img.shields.io/badge/Visit_Ismail's_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://smile-plzz.github.io/Ismail_Hossain/)
 
----
 
 ## ⚡ Live Project Quick Access
 
-> Explore my recent live projects:
+[![📰 News App](https://img.shields.io/badge/📰%20News%20App-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://smile-plzz.github.io/News/)  
+A simple news reader that fetches real-time headlines using public APIs.
 
-| Project | Description |  
-|---|---|  
-| 📰 **News App** | A simple news reader fetching real-time headlines via public APIs. |  
-| 📍 **Real-Time Event Finder** | Discover global events in real time by category and location. |  
-| 💰 **BalanceFlow** | Customized time tracker balancing work & breaks, for health & gym enthusiasts. |  
-| 🌌 **Astronomy Dashboard** | Dynamic NASA Astronomy Picture of the Day with space facts. |  
+[![📍 Real-Time Event Finder](https://img.shields.io/badge/📍%20Event%20Finder-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white)](https://smile-plzz.github.io/real-time-event-finder/)  
+Find events happening around the world in real time based on category and location.
 
-<p align="center">
-  [📰 News App](https://smile-plzz.github.io/News/) &nbsp;&nbsp; | &nbsp;&nbsp; [📍 Event Finder](https://smile-plzz.github.io/real-time-event-finder/) &nbsp;&nbsp; | &nbsp;&nbsp; [💰 BalanceFlow](https://smile-plzz.github.io/BalanceFLow/) &nbsp;&nbsp; | &nbsp;&nbsp; [🌌 Astronomy Dashboard](https://smile-plzz.github.io/AstronomyDashboard/)
-</p>
+[![💰 BalanceFlow](https://img.shields.io/badge/💰%20BalanceFlow-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white)](https://smile-plzz.github.io/BalanceFLow/)  
+A customized time tracker to balance work and breaks, designed for health enthusiasts and gym rats.
+
+[![🌌 Astronomy Dashboard](https://img.shields.io/badge/🌌%20Astronomy%20Dashboard-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white)](https://smile-plzz.github.io/AstronomyDashboard/)  
+Explore NASA's Astronomy Picture of the Day and related space facts dynamically. 
