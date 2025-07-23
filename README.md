@@ -5,7 +5,7 @@
 [![Ismail's Portfolio](https://img.shields.io/badge/Visit_Ismail's_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://smile-plzz.github.io/Ismail_Hossain/)
 
 
-## ⚡ Live Project Quick Access
+## Live Project Quick Access
 
 [![📰 News App](https://img.shields.io/badge/📰%20News%20App-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://smile-plzz.github.io/News/)  
 A simple news reader that fetches real-time headlines using public APIs.
