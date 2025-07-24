@@ -5,16 +5,40 @@
 [![Ismail's Portfolio](https://img.shields.io/badge/Visit_Ismail's_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://smile-plzz.github.io/Ismail_Hossain/)
 
 
-## Live Project Quick Access
+## Live Project Showcase
 
-[![📰 News App](https://img.shields.io/badge/📰%20News%20App-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://smile-plzz.github.io/News/)  
-A simple news reader that fetches real-time headlines using public APIs.
 
-[![📍 Real-Time Event Finder](https://img.shields.io/badge/📍%20Event%20Finder-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white)](https://smile-plzz.github.io/real-time-event-finder/)  
-Find events happening around the world in real time based on category and location.
 
-[![💰 BalanceFlow](https://img.shields.io/badge/💰%20BalanceFlow-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white)](https://smile-plzz.github.io/BalanceFLow/)  
-A customized time tracker to balance work and breaks, designed for health enthusiasts and gym rats.
+---
 
-[![🌌 Astronomy Dashboard](https://img.shields.io/badge/🌌%20Astronomy%20Dashboard-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white)](https://smile-plzz.github.io/AstronomyDashboard/)  
-Explore NASA's Astronomy Picture of the Day and related space facts dynamically. 
+### 📰 [News App](https://smile-plzz.github.io/News/)
+[![Badge](https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://smile-plzz.github.io/News/)  
+🔎 A real-time news reader that fetches top headlines using public APIs. Clean UI, auto-refreshing, and category-based filtering make staying updated simple.
+
+---
+
+### 📍 [Real-Time Event Finder](https://smile-plzz.github.io/real-time-event-finder/)
+[![Badge](https://img.shields.io/badge/Global_Events_Tracker-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white)](https://smile-plzz.github.io/real-time-event-finder/)  
+📅 Search worldwide events by location and interest. Uses geolocation and real-time APIs to help you never miss what's happening.
+
+---
+
+### 💰 [BalanceFlow](https://smile-plzz.github.io/BalanceFLow/)
+[![Badge](https://img.shields.io/badge/Productivity_&_Break_Timer-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white)](https://smile-plzz.github.io/BalanceFLow/)  
+🧘‍♂️ A dynamic work-break timer optimized for productivity cycles, great for gym-goers, remote workers, and students.
+
+---
+
+### 🌌 [Astronomy Dashboard](https://smile-plzz.github.io/AstronomyDashboard/)
+[![Badge](https://img.shields.io/badge/NASA_POD_Explorer-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white)](https://smile-plzz.github.io/AstronomyDashboard/)  
+🔭 Pulls NASA’s Astronomy Picture of the Day with detailed explanations and additional space facts. A cosmic experience for space enthusiasts.
+
+---
+
+### 🎬 [Mood-Based Movie Recommender](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)
+[![Badge](https://img.shields.io/badge/Movie_Suggestions_by_Mood-8E44AD?style=for-the-badge&logo=themoviedatabase&logoColor=white)](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)  
+🎭 Get handpicked movie suggestions based on how you're feeling. Combines genres and user mood to recommend a perfect film.
+
+---
+
+
