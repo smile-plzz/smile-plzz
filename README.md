@@ -1,12 +1,17 @@
 <div align="center">
-  <h1>Ismail's GitHub Profile</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=smile-plzz&show_icons=true&theme=radical" alt="Ismail's GitHub stats" style="margin-bottom: 20px; max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smile-plzz&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom: 20px; max-width: 100%;">
-  <a href="https://smile-plzz.github.io/Ismail_Hossain/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Visit_Ismail's_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="Ismail's Portfolio">
-  </a>
-</div>
 
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=smile-plzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Ismail's GitHub Stats" alt="Ismail's GitHub Stats" width="400"/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smile-plzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top Languages" alt="Top Languages" width="300"/>
+
+  <!-- Portfolio Button -->
+  <a href="https://smile-plzz.github.io/Ismail_Hossain/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Ismail's_Portfolio-0a0a23?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1f2937" alt="Ismail's Portfolio"/>
+  </a>
+
+</div>
 
 ## Live Project Showcase
 
