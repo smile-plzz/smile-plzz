@@ -41,6 +41,6 @@
 ---
 
 ### 🧭 [TechPath Finder](https://techpath-finder.vercel.app/)  
-[![Badge](https://img.shields.io/badge/Find_Your_Tech_Career_Path-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://techpath-finder-9wmkad52n-smile-plzzs-projects.vercel.app)  
+[![Badge](https://img.shields.io/badge/Find_Your_Tech_Career_Path-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://techpath-finder.vercel.app/)  
 💡 Not sure where to begin in tech? This tool helps you discover suitable career paths in technology based on your interests and skill level. Interactive, beginner-friendly, and insight-driven.
 
