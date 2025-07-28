@@ -4,8 +4,8 @@
 
 [![Ismail's Portfolio](https://img.shields.io/badge/Visit_Ismail's_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://smile-plzz.github.io/Ismail_Hossain/)
 
+---
 ## Live Project Showcase
-
 ---
 
 ### 🧭 [TechPath Finder](https://techpath-finder.vercel.app/)  
