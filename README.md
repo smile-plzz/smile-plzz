@@ -7,11 +7,12 @@
 ---
 ## Live Project Showcase
 ---
-
 ### 🧭 [TechPath Finder](https://techpath-finder.vercel.app/)  
 [![Badge](https://img.shields.io/badge/Find_Your_Tech_Career_Path-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://techpath-finder.vercel.app/)  
-💡 Not sure where to begin in tech? This tool helps you discover suitable career paths in technology based on your interests and skill level. Interactive, beginner-friendly, and insight-driven.
+💡 Not sure where to begin in tech? This tool helps you discover suitable career paths in technology based on your interests and skill level. Features an interactive questionnaire, personalized recommendations, and beginner-friendly resources to guide your journey.
+
 ---
+
 
 ### 📰 [News App](https://smile-plzz.github.io/News/)
 [![Badge](https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://smile-plzz.github.io/News/)  
