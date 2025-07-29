@@ -42,5 +42,11 @@
 🎭 Get handpicked movie suggestions based on how you're feeling. Combines genres and user mood to recommend a perfect film.
 
 ---
+### 🎬 [Now Showing](https://now-showing-mu.vercel.app/)
+[![Badge](https://img.shields.io/badge/Now_Playing_Movies-FF6347?style=for-the-badge&logo=tmdb&logoColor=white)](https://now-showing-mu.vercel.app/)  
+🍿 Displays real-time "Now Playing" movies in theaters using the TMDB API. Users can view movie posters, ratings, overviews, release dates, and even **stream selected titles** directly in-app — all within a clean, responsive interface.
+
+---
+
 
 
