@@ -14,8 +14,8 @@
 ---
 
 
-### 📰 [News App](https://smile-plzz.github.io/News/)
-[![Badge](https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://smile-plzz.github.io/News/)  
+### 📰 [News App](https://news-iota-lilac.vercel.app/)
+[![Badge](https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://news-iota-lilac.vercel.app/)  
 🔎 A real-time news reader that fetches top headlines using public APIs. Clean UI, auto-refreshing, and category-based filtering make staying updated simple.
 
 ---
