@@ -7,51 +7,104 @@
 ---
 # 🚀 Live Project Showcase  
 
-A collection of interactive projects showcasing web development, APIs, and real-time applications.  
+A curated collection of my interactive projects.  
 
 ---
 
-## 🧭 [TechPath Finder](https://techpath-finder.vercel.app/)  
-[![Badge](https://img.shields.io/badge/Find_Your_Tech_Career_Path-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://techpath-finder.vercel.app/)  
-💡 Discover the best tech career path based on your skills and interests. Features an **interactive questionnaire**, **personalized recommendations**, and **beginner-friendly resources**.  
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧭 [TechPath Finder](https://techpath-finder.vercel.app/)  
+<a href="https://techpath-finder.vercel.app/">
+  <img src="https://img.shields.io/badge/Find_Your_Tech_Career_Path-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="TechPath Finder"/>
+</a>  
+
+💡 Discover your best career path in tech with an **interactive questionnaire**, **personalized recommendations**, and **beginner-friendly resources**.
+
+</td>
+<td align="center" width="50%">
+
+### 📰 [News App](https://news-iota-lilac.vercel.app/)  
+<a href="https://news-iota-lilac.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white" alt="News App"/>
+</a>  
+
+🔎 A **real-time news reader** with **auto-refreshing headlines**, **category filters**, and a **clean, distraction-free UI**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📰 [News App](https://news-iota-lilac.vercel.app/)  
-[![Badge](https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white)](https://news-iota-lilac.vercel.app/)  
-🔎 A **real-time news reader** powered by public APIs. Includes **auto-refreshing headlines**, **category filters**, and a **clean, distraction-free UI**.  
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📍 [Real-Time Event Finder](https://smile-plzz.github.io/real-time-event-finder/)  
+<a href="https://smile-plzz.github.io/real-time-event-finder/">
+  <img src="https://img.shields.io/badge/Global_Events_Tracker-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Event Finder"/>
+</a>  
+
+📅 Search worldwide events by **location and interest**. Uses **geolocation** + **real-time APIs** to keep you updated.
+
+</td>
+<td align="center" width="50%">
+
+### 💰 [BalanceFlow](https://smile-plzz.github.io/BalanceFLow/)  
+<a href="https://smile-plzz.github.io/BalanceFLow/">
+  <img src="https://img.shields.io/badge/Productivity_&_Break_Timer-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white" alt="BalanceFlow"/>
+</a>  
+
+🧘‍♂️ A **dynamic productivity timer** built for **work-break cycles** — perfect for **remote workers, students, and gym-goers**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📍 [Real-Time Event Finder](https://smile-plzz.github.io/real-time-event-finder/)  
-[![Badge](https://img.shields.io/badge/Global_Events_Tracker-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white)](https://smile-plzz.github.io/real-time-event-finder/)  
-📅 Search worldwide events by **location and interest**. Utilizes **geolocation** + **live APIs** so you never miss what’s happening.  
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌌 [Astronomy Dashboard](https://smile-plzz.github.io/AstronomyDashboard/)  
+<a href="https://smile-plzz.github.io/AstronomyDashboard/">
+  <img src="https://img.shields.io/badge/NASA_POD_Explorer-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white" alt="Astronomy Dashboard"/>
+</a>  
+
+🔭 Explore **NASA’s Astronomy Picture of the Day** with explanations + extra space facts. A **cosmic experience** for enthusiasts.
+
+</td>
+<td align="center" width="50%">
+
+### 🎬 [Mood-Based Movie Recommender](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)  
+<a href="https://smile-plzz.github.io/MovieRecommendationBasedOnMood/">
+  <img src="https://img.shields.io/badge/Movies_by_Mood-8E44AD?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="Movie Recommender"/>
+</a>  
+
+🎭 Get **handpicked movie suggestions** based on your mood. Blends **genres + emotions** for a perfect recommendation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💰 [BalanceFlow](https://smile-plzz.github.io/BalanceFLow/)  
-[![Badge](https://img.shields.io/badge/Productivity_&_Break_Timer-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white)](https://smile-plzz.github.io/BalanceFLow/)  
-🧘‍♂️ A **dynamic productivity timer** designed for **work-break cycles**. Ideal for **remote workers, students, and fitness tracking**.  
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🎬 [Now Showing](https://now-showing-mu.vercel.app/)  
+<a href="https://now-showing-mu.vercel.app/">
+  <img src="https://img.shields.io/badge/Now_Playing_Movies-FF6347?style=for-the-badge&logo=tmdb&logoColor=white" alt="Now Showing"/>
+</a>  
+
+🍿 Real-time **Now Playing movies** from TMDB API. Features **posters, ratings, release dates**, and **in-app streaming previews**.
+
+</td>
+</tr>
+</table>
 
 ---
-
-## 🌌 [Astronomy Dashboard](https://smile-plzz.github.io/AstronomyDashboard/)  
-[![Badge](https://img.shields.io/badge/NASA_POD_Explorer-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white)](https://smile-plzz.github.io/AstronomyDashboard/)  
-🔭 Explore NASA’s **Astronomy Picture of the Day (APOD)** with detailed explanations and additional space facts. A **cosmic journey** for astronomy lovers.  
-
----
-
-## 🎬 [Mood-Based Movie Recommender](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)  
-[![Badge](https://img.shields.io/badge/Movie_Suggestions_by_Mood-8E44AD?style=for-the-badge&logo=themoviedatabase&logoColor=white)](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)  
-🎭 Personalized **movie recommendations based on mood**. Combines **genres + emotions** to suggest the perfect watch.  
-
----
-
-## 🎬 [Now Showing](https://now-showing-mu.vercel.app/)  
-[![Badge](https://img.shields.io/badge/Now_Playing_Movies-FF6347?style=for-the-badge&logo=tmdb&logoColor=white)](https://now-showing-mu.vercel.app/)  
-🍿 Real-time **Now Playing movies in theaters** using TMDB API. Features **posters, ratings, overviews, release dates**, and even **streaming options** within a responsive UI.  
-
----
-
-
-
