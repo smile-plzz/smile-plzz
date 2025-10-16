@@ -110,12 +110,12 @@ A curated collection of my interactive projects.
 ---
 <table> <tr> <td align="center" width="100%">
 🐶 The Daily Doggo
-<a href="https://the-daily-doggo.vercel.app/"> <img src="https://img.shields.io/badge/The_Daily_Doggo‑🐕‑FFB6C1?style=for-the-badge&logo=dog&logoColor=white" alt="The Daily Doggo"/> </a>
+  
+<a href="https://the-daily-doggo.vercel.app/"> <img src="https://img.shields.io/badge/The_Daily_Doggo-FFB6C1?style=for-the-badge&logo=dog&logoColor=white" alt="The Daily Doggo"/> </a>
 
 💕 Fetch something delightful on every click.
 Features adorable critter images, cats, dogs, foxes, Pokémon art, random meals, plus text overlays, favorites, and sharing capabilities.
 
-Built with ❤️ for critter lovers.
 
 </td> </tr> </table>
 ---
