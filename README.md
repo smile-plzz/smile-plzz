@@ -97,7 +97,7 @@ A curated collection of my interactive projects.
 <td align="center" width="100%">
 
 ### 🎬 [Now Showing](https://now-showing-mu.vercel.app/)  
-<a href="https://now-showing-mu.vercel.app/">
+<a href="https://nowshowing-dusky.vercel.app//">
   <img src="https://img.shields.io/badge/Now_Playing_Movies-FF6347?style=for-the-badge&logo=tmdb&logoColor=white" alt="Now Showing"/>
 </a>  
 
