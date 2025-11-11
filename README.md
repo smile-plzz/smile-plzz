@@ -43,7 +43,7 @@ A curated collection of my interactive LIVE projects.
 <td align="center" width="50%">
 
 ### 📍 [Real-Time Event Finder](https://smile-plzz.github.io/real-time-event-finder/)  
-<a href="https://smile-plzz.github.io/real-time-event-finder/">
+<a href="https://real-time-event-finder-full-stack.vercel.app/">
   <img src="https://img.shields.io/badge/Global_Events_Tracker-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Event Finder"/>
 </a>  
 
