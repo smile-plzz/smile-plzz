@@ -1,94 +1,115 @@
-<div align="center">
+# 👋 Hey, I'm Ismail Hossain (smile-plzz)
 
-# 🛠️ ERROR 404: Sanity Not Found
-### Hi, I'm Ismail — I build things so you don't have to.
-**[ Portfolio ](https://smile-plzz.github.io/Ismail_Hossain/) • [ LinkedIn ](#) • [ Resume ](#)**
+Welcome to my GitHub – the digital graveyard where good ideas go to slowly rot into working code.  
+I'm a CS grad turned MS student who spends most of his time convincing machines to do the heavy lifting so I don't have to. Most of my repos are **AI-driven experiments**, because nothing says "future-proof career" like outsourcing your creativity to neural networks.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3E3E&center=true&vCenter=true&width=435&lines=I+convert+caffeine+into+bugs.;Full-stack+survivor.;Professional+Stack+Overflow+researcher.;Centering+divs+since+the+dawn+of+time." alt="Typing SVG" />
-</p>
+If you're here expecting clean code and perfect documentation, lower your expectations faster than a crypto bro in bear market. But if you like projects that blend web dev with a splash of machine intelligence (and occasional existential bugs), you've come to the right chaotic corner of GitHub.
 
----
+[![Ismail's Portfolio](https://img.shields.io/badge/Visit_Ismail's_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://smile-plzz.github.io/Ismail_Hossain/)
 
-### 📊 The Stats of My Suffering
-![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=smile-plzz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smile-plzz&layout=compact&theme=radical)
+# 🚀 Live Project Showcase (The Ones That Actually Work)
 
-</div>
-
----
-
-### 💀 The Tools of My Torment (Tech Stack)
-
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Survival** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-
----
-
-### 🚀 The Hall of "It Worked on My Machine"
-*A curated collection of digital artifacts and live projects.*
+A curated collection of my interactive LIVE projects – proof that I occasionally ship things instead of just dreaming about them.
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h4>🧭 TechPath Finder</h4>
+    <td align="center" width="50%">
+      ### 🧭 [TechPath Finder](https://techpath-finder.vercel.app/)
       <a href="https://techpath-finder.vercel.app/">
-        <img src="https://img.shields.io/badge/Career_Chaos_Manager-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Find_Your_Tech_Career_Path-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="TechPath Finder"/>
       </a>
-      <p>Helping others find a career path because I’m still lost in <code>/root</code>.</p>
+      💡 An interactive quiz that pretends to know your future better than your career counselor.
     </td>
-    <td width="50%" align="center">
-      <h4>🐶 The Daily Doggo</h4>
-      <a href="https://the-daily-doggo.vercel.app/">
-        <img src="https://img.shields.io/badge/Dopamine_Provider-FFB6C1?style=for-the-badge&logo=dog&logoColor=white" />
+    <td align="center" width="50%">
+      ### 📰 [News App](https://news-iota-lilac.vercel.app/)
+      <a href="https://news-iota-lilac.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white" alt="News App"/>
       </a>
-      <p>A desperate attempt to find joy through random animal APIs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h4>💰 BalanceFlow</h4>
-      <a href="https://smile-plzz.github.io/BalanceFLow/">
-        <img src="https://img.shields.io/badge/Anti_Burnout_Timer-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white" />
-      </a>
-      <p>A timer that tells me to stop working. I usually ignore it.</p>
-    </td>
-    <td width="50%" align="center">
-      <h4>🌌 Astronomy Dashboard</h4>
-      <a href="https://smile-plzz.github.io/AstronomyDashboard/">
-        <img src="https://img.shields.io/badge/Cosmic_Existentialism-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white" />
-      </a>
-      <p>Staring at the stars so I don't have to stare at my console errors.</p>
+      🔎 Real-time headlines with filters – because doom-scrolling deserves a polished UI.
     </td>
   </tr>
 </table>
 
 ---
 
-### 🕵️ Why am I here?
-* **Fact:** 90% of my "coding" time is actually just thinking of variable names that aren't `data1`.
-* **Fact:** I build Full-Stack apps because I have commitment issues with just one side of the stack.
-* **Fact:** If you find a bug, no you didn't. That's a **Legacy Feature™**.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      ### 📍 [Real-Time Event Finder](https://real-time-event-finder-full-stack.vercel.app/)
+      <a href="https://real-time-event-finder-full-stack.vercel.app/">
+        <img src="https://img.shields.io/badge/Global_Events_Tracker-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Event Finder"/>
+      </a>
+      📅 Finds events worldwide using geolocation. Perfect for pretending you're social.
+    </td>
+    <td align="center" width="50%">
+      ### 💰 [BalanceFlow](https://smile-plzz.github.io/BalanceFLow/)
+      <a href="https://smile-plzz.github.io/BalanceFLow/">
+        <img src="https://img.shields.io/badge/Productivity_&_Break_Timer-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white" alt="BalanceFlow"/>
+      </a>
+      🧘‍♂️ Pomodoro on steroids – for people who need an app to remind them to blink.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Send help (or a job offer)
-> "In a world full of 10x developers, I'm just trying to be a 1x developer who actually sleeps."
+<table>
+  <tr>
+    <td align="center" width="50%">
+      ### 🌌 [Astronomy Dashboard](https://smile-plzz.github.io/AstronomyDashboard/)
+      <a href="https://smile-plzz.github.io/AstronomyDashboard/">
+        <img src="https://img.shields.io/badge/NASA_POD_Explorer-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white" alt="Astronomy Dashboard"/>
+      </a>
+      🔭 Daily dose of cosmic beauty. Reminder that we're all insignificant stardust.
+    </td>
+    <td align="center" width="50%">
+      ### 🎬 [Mood-Based Movie Recommender](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)
+      <a href="https://smile-plzz.github.io/MovieRecommendationBasedOnMood/">
+        <img src="https://img.shields.io/badge/Movies_by_Mood-8E44AD?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="Movie Recommender"/>
+      </a>
+      🎭 Tells you what to watch when you're too emotionally unstable to decide.
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/smile-plzz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+---
 
-<br />
+<table>
+  <tr>
+    <td align="center" width="100%">
+      ### 🍿 [Now Showing](https://nowshowing-dusky.vercel.app/)
+      <a href="https://nowshowing-dusky.vercel.app/">
+        <img src="https://img.shields.io/badge/Now_Playing_Movies-FF6347?style=for-the-badge&logo=tmdb&logoColor=white" alt="Now Showing"/>
+      </a>
+      Real-time theater listings. Because deciding on a movie in a group chat is war.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      ### 🐶 [The Daily Doggo](https://the-daily-doggo.vercel.app/)
+      <a href="https://the-daily-doggo.vercel.app/">
+        <img src="https://img.shields.io/badge/The_Daily_Doggo-FFB6C1?style=for-the-badge&logo=dog&logoColor=white" alt="The Daily Doggo"/>
+      </a>
+      💕 Random cute animals on demand. Cheaper than therapy, fewer side effects.
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=100&section=footer" />
-</div>
+# 🧠 AI-Driven Shenanigans
+
+Most of my recent repos are me poking at neural nets like they're magical black boxes that occasionally work:
+
+- Brain tumor classification with EfficientNet & Grad-CAM (because why not play with medical imaging?)
+- OCR-powered healthcare platforms (TensorFlow says your prescription is now digital, you're welcome)
+- Various experiments with Gemini, LLMs, and whatever shiny new model dropped this week
+
+If it's got "AI", "ML", or "neural" in the name, it's probably half-broken and twice as fun.
+
+# 📬 Let's Connect (Or Not)
+
+I'm more active on GitHub than in real life. Feel free to:
+- Star something if it saves you 5 minutes
+- Open an issue if it wastes 5 hours
+- Fork and fix my crimes against clean code
+
+Thanks for stopping by. May your bugs be reproducible and your coffee strong. ☕
