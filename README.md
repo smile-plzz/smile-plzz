@@ -9,91 +9,59 @@ If you're here expecting clean code and perfect documentation, lower your expect
 
 # 🚀 Live Project Showcase (The Ones That Actually Work)
 
-A curated collection of my interactive LIVE projects – proof that I occasionally ship things instead of just dreaming about them.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      ### 🧭 [TechPath Finder](https://techpath-finder.vercel.app/)
-      <a href="https://techpath-finder.vercel.app/">
-        <img src="https://img.shields.io/badge/Find_Your_Tech_Career_Path-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="TechPath Finder"/>
-      </a>
-      💡 An interactive quiz that pretends to know your future better than your career counselor.
-    </td>
-    <td align="center" width="50%">
-      ### 📰 [News App](https://news-iota-lilac.vercel.app/)
-      <a href="https://news-iota-lilac.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_News_Feed-FF5733?style=for-the-badge&logo=rss&logoColor=white" alt="News App"/>
-      </a>
-      🔎 Real-time headlines with filters – because doom-scrolling deserves a polished UI.
-    </td>
-  </tr>
-</table>
+Here are my favorite deployed projects:
 
----
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      ### 📍 [Real-Time Event Finder](https://real-time-event-finder-full-stack.vercel.app/)
-      <a href="https://real-time-event-finder-full-stack.vercel.app/">
-        <img src="https://img.shields.io/badge/Global_Events_Tracker-1E90FF?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Event Finder"/>
-      </a>
-      📅 Finds events worldwide using geolocation. Perfect for pretending you're social.
-    </td>
-    <td align="center" width="50%">
-      ### 💰 [BalanceFlow](https://smile-plzz.github.io/BalanceFLow/)
-      <a href="https://smile-plzz.github.io/BalanceFLow/">
-        <img src="https://img.shields.io/badge/Productivity_&_Break_Timer-4CAF50?style=for-the-badge&logo=google-wallet&logoColor=white" alt="BalanceFlow"/>
-      </a>
-      🧘‍♂️ Pomodoro on steroids – for people who need an app to remind them to blink.
-    </td>
-  </tr>
-</table>
+1. **[TechPath Finder](https://github.com/smile-plzz/techpath-finder)**  
+   Interactive career-path quiz with personalized recommendations  
+   **Tech**: TypeScript • **Live**: [techpath-finder.vercel.app](https://techpath-finder.vercel.app/)
 
----
+2. **[Real-Time Event Finder](https://github.com/smile-plzz/real-time-event-finder)** (Full-stack version)  
+   Find events worldwide using geolocation  
+   **Tech**: TypeScript • **Live**: [real-time-event-finder-full-stack.vercel.app](https://real-time-event-finder-full-stack.vercel.app/)
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      ### 🌌 [Astronomy Dashboard](https://smile-plzz.github.io/AstronomyDashboard/)
-      <a href="https://smile-plzz.github.io/AstronomyDashboard/">
-        <img src="https://img.shields.io/badge/NASA_POD_Explorer-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white" alt="Astronomy Dashboard"/>
-      </a>
-      🔭 Daily dose of cosmic beauty. Reminder that we're all insignificant stardust.
-    </td>
-    <td align="center" width="50%">
-      ### 🎬 [Mood-Based Movie Recommender](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)
-      <a href="https://smile-plzz.github.io/MovieRecommendationBasedOnMood/">
-        <img src="https://img.shields.io/badge/Movies_by_Mood-8E44AD?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="Movie Recommender"/>
-      </a>
-      🎭 Tells you what to watch when you're too emotionally unstable to decide.
-    </td>
-  </tr>
-</table>
+3. **[News App](https://github.com/smile-plzz/News)**  
+   Real-time news with filters and clean UI  
+   **Tech**: JavaScript • **Live**: [news-iota-lilac.vercel.app](https://news-iota-lilac.vercel.app/)
+
+4. **[Astronomy Dashboard](https://github.com/smile-plzz/AstronomyDashboard)**  
+   Daily NASA Astronomy Picture of the Day + explanations  
+   **Tech**: HTML/JS • **Live**: [smile-plzz.github.io/AstronomyDashboard](https://smile-plzz.github.io/AstronomyDashboard/)
+
+5. **[BalanceFLow](https://github.com/smile-plzz/BalanceFLow)**  
+   Enhanced Pomodoro timer for focus & breaks  
+   **Tech**: HTML/JS • **Live**: [smile-plzz.github.io/BalanceFLow](https://smile-plzz.github.io/BalanceFLow/)
+
+6. **[Movie Recommendation Based on Mood](https://github.com/smile-plzz/MovieRecommendationBasedOnMood)**  
+   Get movie suggestions matching your current mood (TMDB)  
+   **Tech**: JavaScript • **Live**: [smile-plzz.github.io/MovieRecommendationBasedOnMood](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)
+
+### 🎁 Other Cool Live Demos
+- **[Now Showing](https://nowshowing-dusky.vercel.app/)** – Real-time theater movies
+- **[The Daily Doggo](https://the-daily-doggo.vercel.app/)** – Random cute animal pics + favorites
+- **[Medicine Tracker](https://medicine-tracker-gilt.vercel.app/)** – Medication reminder
+- **[CineGemini](https://github.com/smile-plzz/CineGemini)** – Gemini-powered movie assistant
+- **[Westeros Chronicles Timeline](https://github.com/smile-plzz/Westeros-Chronicles-Interactive-Timeline)** – Interactive Game of Thrones timeline
+
+View **all repositories** → [github.com/smile-plzz?tab=repositories](https://github.com/smile-plzz?tab=repositories)
+
+## 📊 GitHub Stats
+- 647 contributions in the last year
+- 5 followers • 16 following
+- Active in TypeScript & JavaScript projects
+
+## 📫 Let's Connect
+- Portfolio → [smile-plzz.github.io/Ismail_Hossain](https://smile-plzz.github.io/Ismail_Hossain/)
+- LinkedIn → [Md. Ismail Hossain](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/)
+- Facebook → [optimisticyetpessimist](https://www.facebook.com/optimisticyetpessimist/)
+- Email → ismailhossain013@gmail.com
+
+Thanks for stopping by! ⭐ Feel free to explore, fork, or open issues — feedback is always welcome.
 
 ---
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      ### 🍿 [Now Showing](https://nowshowing-dusky.vercel.app/)
-      <a href="https://nowshowing-dusky.vercel.app/">
-        <img src="https://img.shields.io/badge/Now_Playing_Movies-FF6347?style=for-the-badge&logo=tmdb&logoColor=white" alt="Now Showing"/>
-      </a>
-      Real-time theater listings. Because deciding on a movie in a group chat is war.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      ### 🐶 [The Daily Doggo](https://the-daily-doggo.vercel.app/)
-      <a href="https://the-daily-doggo.vercel.app/">
-        <img src="https://img.shields.io/badge/The_Daily_Doggo-FFB6C1?style=for-the-badge&logo=dog&logoColor=white" alt="The Daily Doggo"/>
-      </a>
-      💕 Random cute animals on demand. Cheaper than therapy, fewer side effects.
-    </td>
-  </tr>
-</table>
+Made with ❤️ and lots of coffee in Dhaka
 
 # 🧠 AI-Driven Shenanigans
 
