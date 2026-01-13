@@ -9,47 +9,25 @@ If you're here expecting clean code and perfect documentation, lower your expect
 
 # 🚀 Live Project Showcase (The Ones That Actually Work)
 
+Here's a cleaner, more Notion-style organized version of your project showcase section using a markdown table with emoji + clean columns.
+You can replace the old "🔥 Live Project Showcase" part with this:
+Markdown## 🚀 Live Projects Showcase
 
-Here are my favorite deployed projects:
+| Project | Description | Tech Stack | Live Demo | Repo |
+|---------|-------------|------------|-----------|------|
+| 🌟 **TechPath Finder** | Interactive career quiz with personalized tech career recommendations | TypeScript, React, Tailwind | [techpath-finder.vercel.app](https://techpath-finder.vercel.app/) | [→ Repo](https://github.com/smile-plzz/techpath-finder) |
+| 📍 **Real-Time Event Finder** | Find nearby & global events using geolocation (full-stack version) | TypeScript, Next.js?, APIs | [real-time-event-finder-full-stack.vercel.app](https://real-time-event-finder-full-stack.vercel.app/) | [→ Repo](https://github.com/smile-plzz/real-time-event-finder) |
+| 📰 **News App** | Clean, real-time news reader with category filters | JavaScript, NewsAPI | [news-iota-lilac.vercel.app](https://news-iota-lilac.vercel.app/) | [→ Repo](https://github.com/smile-plzz/News) |
+| 🌌 **Astronomy Dashboard** | Daily NASA APOD with explanations & beautiful visuals | HTML, CSS, JavaScript | [smile-plzz.github.io/AstronomyDashboard](https://smile-plzz.github.io/AstronomyDashboard/) | [→ Repo](https://github.com/smile-plzz/AstronomyDashboard) |
+| ⏳ **BalanceFLow** | Modern Pomodoro timer with nice animations & sound | HTML, CSS, JavaScript | [smile-plzz.github.io/BalanceFLow](https://smile-plzz.github.io/BalanceFLow/) | [→ Repo](https://github.com/smile-plzz/BalanceFLow) |
+| 🎬 **Movie Mood Recommender** | Get perfect movie suggestions based on your current mood | JavaScript, TMDB API | [smile-plzz.github.io/MovieRecommendationBasedOnMood](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/) | [→ Repo](https://github.com/smile-plzz/MovieRecommendationBasedOnMood) |
+| 🎥 **Now Showing** | Real-time movie theater listings | JavaScript, TMDB | [nowshowing-dusky.vercel.app](https://nowshowing-dusky.vercel.app/) | — |
+| 🐶 **The Daily Doggo** | Daily dose of random cute dogs + favorite collection | JavaScript, Dog API | [the-daily-doggo.vercel.app](https://the-daily-doggo.vercel.app/) | — |
+| 💊 **Medicine Tracker** | Simple medication reminder & schedule | JavaScript | [medicine-tracker-gilt.vercel.app](https://medicine-tracker-gilt.vercel.app/) | — |
+| 🤖 **CineGemini** | Ask anything about movies with Gemini AI | TypeScript?, Gemini API | [→ Live](https://cinegemini.vercel.app/) | [→ Repo](https://github.com/smile-plzz/CineGemini) |
+| 🏰 **Westeros Chronicles** | Interactive Game of Thrones timeline | HTML, CSS, JavaScript | [→ Live](https://westeros-chronicles.vercel.app/) | [→ Repo](https://github.com/smile-plzz/Westeros-Chronicles-Interactive-Timeline) |
 
-
-1. **[TechPath Finder](https://github.com/smile-plzz/techpath-finder)**  
-   Interactive career-path quiz with personalized recommendations  
-   **Tech**: TypeScript • **Live**: [techpath-finder.vercel.app](https://techpath-finder.vercel.app/)
-
-2. **[Real-Time Event Finder](https://github.com/smile-plzz/real-time-event-finder)** (Full-stack version)  
-   Find events worldwide using geolocation  
-   **Tech**: TypeScript • **Live**: [real-time-event-finder-full-stack.vercel.app](https://real-time-event-finder-full-stack.vercel.app/)
-
-3. **[News App](https://github.com/smile-plzz/News)**  
-   Real-time news with filters and clean UI  
-   **Tech**: JavaScript • **Live**: [news-iota-lilac.vercel.app](https://news-iota-lilac.vercel.app/)
-
-4. **[Astronomy Dashboard](https://github.com/smile-plzz/AstronomyDashboard)**  
-   Daily NASA Astronomy Picture of the Day + explanations  
-   **Tech**: HTML/JS • **Live**: [smile-plzz.github.io/AstronomyDashboard](https://smile-plzz.github.io/AstronomyDashboard/)
-
-5. **[BalanceFLow](https://github.com/smile-plzz/BalanceFLow)**  
-   Enhanced Pomodoro timer for focus & breaks  
-   **Tech**: HTML/JS • **Live**: [smile-plzz.github.io/BalanceFLow](https://smile-plzz.github.io/BalanceFLow/)
-
-6. **[Movie Recommendation Based on Mood](https://github.com/smile-plzz/MovieRecommendationBasedOnMood)**  
-   Get movie suggestions matching your current mood (TMDB)  
-   **Tech**: JavaScript • **Live**: [smile-plzz.github.io/MovieRecommendationBasedOnMood](https://smile-plzz.github.io/MovieRecommendationBasedOnMood/)
-
-### 🎁 Other Cool Live Demos
-- **[Now Showing](https://nowshowing-dusky.vercel.app/)** – Real-time theater movies
-- **[The Daily Doggo](https://the-daily-doggo.vercel.app/)** – Random cute animal pics + favorites
-- **[Medicine Tracker](https://medicine-tracker-gilt.vercel.app/)** – Medication reminder
-- **[CineGemini](https://github.com/smile-plzz/CineGemini)** – Gemini-powered movie assistant
-- **[Westeros Chronicles Timeline](https://github.com/smile-plzz/Westeros-Chronicles-Interactive-Timeline)** – Interactive Game of Thrones timeline
-
-View **all repositories** → [github.com/smile-plzz?tab=repositories](https://github.com/smile-plzz?tab=repositories)
-
-## 📊 GitHub Stats
-- 647 contributions in the last year
-- 5 followers • 16 following
-- Active in TypeScript & JavaScript projects
+→ See **all repositories** → [github.com/smile-plzz?tab=repositories](https://github.com/smile-plzz?tab=repositories)
 
 ## 📫 Let's Connect
 - Portfolio → [smile-plzz.github.io/Ismail_Hossain](https://smile-plzz.github.io/Ismail_Hossain/)
