@@ -43,19 +43,10 @@ Made with ❤️ and lots of coffee in Dhaka
 
 # 🧠 AI-Driven Shenanigans
 
-Most of my recent repos are me poking at neural nets like they're magical black boxes that occasionally work:
-
-- Brain tumor classification with EfficientNet & Grad-CAM (because why not play with medical imaging?)
-- OCR-powered healthcare platforms (TensorFlow says your prescription is now digital, you're welcome)
-- Various experiments with Gemini, LLMs, and whatever shiny new model dropped this week
+Most of my recent repos are me poking at neural nets like they're magical black boxes that occasionally work
 
 If it's got "AI", "ML", or "neural" in the name, it's probably half-broken and twice as fun.
 
-# 📬 Let's Connect (Or Not)
-
-I'm more active on GitHub than in real life. Feel free to:
-- Star something if it saves you 5 minutes
-- Open an issue if it wastes 5 hours
-- Fork and fix my crimes against clean code
+📬 Let's Connect (Or Not)
 
 Thanks for stopping by. May your bugs be reproducible and your coffee strong. ☕
