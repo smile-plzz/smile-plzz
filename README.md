@@ -6,7 +6,7 @@ CS grad turned PMIT student in Dhaka, professionally employed as a middle manage
 
 If you're expecting clean code and pristine docs: bold of you to click a profile called `smile-plzz`. Lower your expectations to somewhere just above "it ran once on my machine" and you'll have a great time. I mostly build things because I want them to exist, then accidentally learn something useful along the way.
 
-`git blame` is basically my autobiography at this point.
+`git blame` is basically my autobiography at this point. Everything eventually becomes legacy code, including us.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smile-plzz.github.io/Ismail_Hossain/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/)
@@ -31,7 +31,7 @@ If you're expecting clean code and pristine docs: bold of you to click a profile
 
 ## 🧠 AI, Agents & Research
 
-*Where I outsource my thinking to committees of chatbots and call it architecture.*
+*Where I outsource my thinking to committees of chatbots and call it architecture. Consciousness remains an unresolved dependency.*
 
 | Project | What it does | Live |
 |---|---|---|
@@ -57,7 +57,7 @@ If you're expecting clean code and pristine docs: bold of you to click a profile
 
 ## 🎬 Streaming & Entertainment
 
-*Peak productive procrastination: building the thing instead of watching the thing.*
+*Peak productive procrastination: building the thing instead of watching the thing. Time is finite; apparently this is how I chose to spend some of it.*
 
 | Project | What it does | Live |
 |---|---|---|
@@ -82,7 +82,7 @@ If you're expecting clean code and pristine docs: bold of you to click a profile
 
 ## 📊 Dashboards & Practical Tools
 
-*The "there has to be a cleaner way to do this" department.*
+*The "there has to be a cleaner way to do this" department. There usually isn't; I build one anyway.*
 
 | Project | What it does | Live |
 |---|---|---|
@@ -105,6 +105,6 @@ If you're expecting clean code and pristine docs: bold of you to click a profile
 
 Most projects here are experiments, prototypes or research artifacts rather than polished commercial products. I build fast, test ideas in public, keep the useful failures, and occasionally remember to write the README.
 
-Some people collect bookmarks for ideas. I appear to collect repositories.
+Some people collect bookmarks for ideas. I appear to collect repositories. Some reach production; others achieve the more peaceful state of abandonment.
 
-> **Current pattern:** research → prototype → deploy → discover three new problems → open another repo.
+> **Current pattern:** research → prototype → deploy → discover three new problems → open another repo → repeat until the heat death of the universe or GitHub changes its pricing, whichever comes first.
