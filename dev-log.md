@@ -24,3 +24,8 @@
   - Authentic voice, witty captions, and self-deprecating intro/outro preserved verbatim.
   - Incorporates latest November 2026 releases: Tracklist, Trek Route Visualizer, NearDrop, Khoroch, TrailLink, BetweenUs (Beta), The Hustle, The Knight 3D, 2D Java Arcade, Game Studies research papers, and DealScope.
 - **Status**: Ready for staging and commit.
+
+## 2026-11-04 23:49:00 +06:00 - Added Technical Stack & Workflow Section
+- **Task**: Added 7-line dark humor breakdown of technical workflow and stack to profile README.
+- **Coverage**: Polyglot runtimes (TS/Py/C#/Kotlin), zero-backend architecture ($0 cloud bill), hardware repurposing (Galaxy S7/Android TV), native C# desktop tools vs Electron bloat, Hermes free-tier model routing, offline SMS/backup paranoia, and late-night LaTeX game narrative papers.
+- **Verification**: Markdown tables, link targets, and heading hierarchy verified.

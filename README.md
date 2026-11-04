@@ -176,6 +176,20 @@ If you're expecting clean code and pristine docs: bold of you to click a profile
 
 ---
 
+## ⚙️ The Pipeline & Coping Mechanisms
+
+*The technical stack, or: how I turn caffeine and mild spite into running software.*
+
+* **The Polyglot Delusion:** `TypeScript`, `Python`, `C#`, and `Kotlin` — alternating between them based purely on which compiler offended me the least that morning.
+* **The "Zero-Backend" Religion:** If it can run entirely inside client-side MapLibre, WebAssembly, or localStorage, it will. Server bills are an emotional defeat; my preferred monthly cloud spend is strictly $0.00.
+* **Hardware Recycling as Therapy:** Turning eight-year-old Samsung Galaxy phones into offline travel appliances and local TV bridges because letting silicon retire in peace is against my principles.
+* **Desktop Revivalism:** Building native C#/.NET and Avalonia desktop tools because watching modern Electron wrappers consume 2GB of RAM to render three text inputs hurts my soul.
+* **The Free-Tier Scavenger Routine:** Daisy-chaining custom model routers across Groq, Gemini, Mistral, and OpenRouter like a digital raccoon foraging through free-tier context windows.
+* **Offline Paranoia:** Writing offline-first parsers for local SMS, direct iPhone backups, and SHA-256 deduplicators — because trusting third-party cloud sync requires an act of faith I don't possess.
+* **Academic Coping:** Whenever building software fails to resolve an existential question, I write 20-page LaTeX papers dissecting moral trauma and player guilt in video games instead of sleeping.
+
+---
+
 ## What I'm usually building
 
 `AI agents` · `LLM evaluation` · `Local-first software` · `Android & TV tools` · `React / Next.js` · `Node.js` · `C# / .NET` · `Python` · `data experiments` · `product prototypes` · `tools that solve suspiciously specific problems`
