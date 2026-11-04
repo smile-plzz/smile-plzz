@@ -22,3 +22,4 @@
 - Do NOT sanitize or genericize the tone; preserve the distinct Ismail Hossain humor ("Middle manager to a small army of AI agents", "git blame is my autobiography", "crashes on reality").
 - Maintain backwards compatibility with existing project listings while adding new developments cohesively.
 - No dead or hallucinated links.
+
