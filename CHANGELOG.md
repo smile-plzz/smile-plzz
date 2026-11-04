@@ -4,6 +4,7 @@ All notable changes to the `smile-plzz` GitHub Profile README will be documented
 
 ## [Unreleased]
 ### Added
+- **The AI Dependency Lifecycle**: 6-stage dark comedy breakdown of ideation, synthetic committee debates, outsourced bug generation, TCRA auditing, free-tier scavenging, and perpetual repo creation.
 - **The Pipeline & Coping Mechanisms**: 7-line dark humor breakdown of tech stack, runtimes, free-tier AI routing, offline paranoia, and hardware repurposing.
 - **Recent Builds**: Added Tracklist, Trek Route Visualizer, NearDrop, Khoroch, TrailLink, and updated BetweenUs with live status.
 - **Local-First & Windows Software section**: Dedicated cluster for desktop utilities (NearDrop, iBackup, DedupeLight, Luma / Photo Library, Safe Gaming Optimizer, LyricFloat).
