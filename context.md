@@ -11,6 +11,7 @@
   - AI infrastructure additions (Hermes Model Router for multi-provider free-tier routing).
   - Academic research & game narrative studies: Hollow Knight & Silksong, Red Dead Redemption Saga, Call of Duty 4: Modern Warfare, Battlefield V, Battlefield: Bad Company 2, The Last of Us Part II, Metro: Last Light, Spec Ops: The Line, The Sound of Identity, plus ongoing geospatial/E2SFCA updates to BD Health Access Gap.
 - Ensure all live demo links, release links, GitHub Pages URLs, and canonical repository URLs are accurate and verified.
+- Provide repository-level git context across every featured project (`createdAt` date, latest `pushedAt` update date, default-branch & active-branch commit counts, primary stack/languages, and release counts) plus a portfolio-wide effort & stack snapshot.
 
 ## Stack & Format
 - GitHub Flavored Markdown (GFM).

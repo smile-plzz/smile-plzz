@@ -4,6 +4,9 @@ All notable changes to the `smile-plzz` GitHub Profile README will be documented
 
 ## [Unreleased]
 ### Added
+- **Git Context & Effort Snapshot**: Added a portfolio-wide snapshot section (`119` public repos, `82` featured, `2,820` public default-branch commits / `2,195` across featured repos, `24` published releases, primary stack breakdown, and commit-effort distribution buckets).
+- **Per-Repo `Git Context` Column**: Added `Git Context` to all 10 tables showing creation date, latest git push date, default-branch commit count (plus active non-default branches where newer, e.g. Luma `v0.7.0`), primary stack/language, and release counts for every repository mentioned (including all multi-repo rows).
+- **TV Bridge Releases Link**: Surfaced `TV-Bridge-android-app-TV` (`2` published releases) inline in `Android & Appliance Hardware`.
 - **Research Journal (`research-journal-web-app`)**: Added the new GitHub-powered Next.js academic publication archive (live on Vercel) to `Recent Builds`, `Academic Research & Narrative Studies`, and `The Pipeline & Coping Mechanisms`.
 - **New Game Studies Monographs**: Added `hollow-knight-lore-paper` (Hollow Knight & Silksong), `red-dead-redemption-lore-paper`, `cod4-paper`, `battlefield-v-paper`, and separated `battlefield-bad-company-2-paper` from the combined Spec Ops row.
 - **Verified Live & Release Links**: Added live demo link for `anicult` (`https://anicult.vercel.app`), release links for `iBackup` and `DedupeLight`, and inline release link for `NowShowing TV`.

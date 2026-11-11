@@ -48,3 +48,14 @@
     - `Safe-Gaming-Optimizer-windows-script/releases` had 0 published releases, while `iBackup-windows-software`, `dedupe-light-windows-software`, `NowShowing-Stream-android-app-TV`, and `anicult-web-app` had active releases/demos missing from the README.
 - **Verification**:
   - Executed `verify_readme.py`: 10 Markdown tables validated for column parity; 82 unique public GitHub repo links verified against live `gh repo list` data; 0 private repo leaks; 5 `/releases` links verified to have >= 1 published release; all `github.io` Pages URLs plus new/updated Vercel demos (`research-journal-kappa.vercel.app`, `anicult.vercel.app`, `cine-gemini.vercel.app`) returned HTTP 200.
+
+## 2026-11-12 02:07:00 +06:00 - Add Per-Repo Git Context (Created, Updated, Commits, Stack) & Portfolio Effort Snapshot
+- **Task**: Add date created, last update (`pushedAt`), commit count, and contextual stack/release/effort metrics for every repository featured in `README.md`.
+- **Data Ingestion**:
+  - Queried GitHub GraphQL API across all 119 public repositories (`2,820` total default-branch commits, `24` published releases; `2,195` commits and `21` releases across the `82` featured repos).
+  - Checked `/languages` for multi-language and Markdown-only paper repositories (`The-Sound-of-Identity-paper`, `listener-taste-growth-profile-paper`, `bd-health-access-gap-paper`, `cod4-paper`, `battlefield-v-paper`, `hollow-knight-lore-paper`, `red-dead-redemption-lore-paper`) and identified newer non-default source branches (`Luma-windows-software` `feat/v0.7.0-trust-speed-and-viewing` with 83 commits vs 75 on `main`, `NowShowing-Stream-web-app` 13 vs 8, `hermes-model-router-agent-workflow` 5 vs 3, `Time-Capsule-V2-web-app` 22 vs 19).
+- **Changes**:
+  - Added `## 📊 Git Context & Effort Snapshot` summarizing public repo footprint, active timespan (`2025-07-02` → `2026-11-11`), stack breakdown, and commit-effort distribution (`1–10`, `11–49`, `50+` commits).
+  - Added a `Git Context` column to all 10 tables covering all 82 featured repos (including multi-repo rows like `TCRA V4/V3/V2/V1`, `HiveMind`, `Brainstorm.AI`, `NowShowing/Stream/TV`, `PillPal/Tracker/Impact`, and `Time Capsule V2/V1`), plus inline stats on `Research Journal` and release links on `TV Bridge`.
+- **Verification**:
+  - Executed `verify_git_context.py`: 10 tables and 78 data rows validated for column parity; all 82 unique public repo links and 6 `/releases` links verified against live GraphQL snapshot data (`repo_git_stats.json`), confirming exact `createdAt`, `pushedAt`, and commit count match for every repo in every row with 0 private repo leaks.
