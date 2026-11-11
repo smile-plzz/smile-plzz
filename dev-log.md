@@ -33,3 +33,18 @@
 ## 2026-11-04 23:51:00 +06:00 - Added The AI Dependency Lifecycle Section
 - **Task**: Added narrative and structured workflow detailing the 2 AM ideation phase, synthetic agent committee debates (Brainstorm.AI / HiveMind), outsourced code/bug generation, multi-tier synthetic code auditing (TCRA Code Auditor / VibeBench), free-tier scavenger routing (Hermes), and perpetual repo opening.
 - **Verification**: GFM formatting, line count, and outbound links verified.
+
+## 2026-11-12 02:01:00 +06:00 - Profile README Sync with Nov 5–11 Git Activities & Link Repair
+- **Task**: Audit GitHub activity since 2026-11-04, incorporate new repositories and major updates, and repair stale/broken URLs in `README.md`.
+- **Audit Findings (139 total repos: 119 public, 20 private excluded)**:
+  - **New public repositories (Nov 5–10)**: `research-journal-web-app` (live at `https://research-journal-kappa.vercel.app`), `hollow-knight-lore-paper` (Phases A–K deep lore audit), `cod4-paper`, `battlefield-v-paper`, `red-dead-redemption-lore-paper`, plus unlinked `battlefield-bad-company-2-paper`.
+  - **Major updates to existing projects (Nov 5–11)**:
+    - `Luma-windows-software`: PR #15 merged and `v0.7.0` development pushed through Nov 11 (Photo Stacks, adaptive layouts, opt-in OSM Map View, GPS/XMP/ISO-6709 extraction, Spacebar quick preview, Tag Manager, Duplicates Finder).
+    - `NowShowing-Stream-android-app-TV`: PR #23 merged Nov 7 (`v1.6.0-rc.5` Apple-like TV restraint design system, Room v3 watched tracking, local JSON backup/restore, 171 tests).
+    - `bd-health-access-gap-paper` & `-paper` series: E2SFCA spatial econometrics expansion and Nov 5 metadata standardization across public paper repositories.
+  - **Broken / Stale URLs Found**:
+    - 28 unique repository URLs (30 link occurrences) in `README.md` still referenced pre-rename slugs missing `-web-app` / `-paper` suffixes or old repo names (`AstroNode-Live-Orbital-Dashboard`, `Real-Time-Market-Weather-Analytics-Dashboard`, `Westeros-Chronicles-Interactive-Timeline`, `spotify-intelligence-v1`, etc.).
+    - `https://smile-plzz.github.io/CineGemini-Stream/` returned HTTP 404 after repo rename to `CineGemini-Stream-web-app`.
+    - `Safe-Gaming-Optimizer-windows-script/releases` had 0 published releases, while `iBackup-windows-software`, `dedupe-light-windows-software`, `NowShowing-Stream-android-app-TV`, and `anicult-web-app` had active releases/demos missing from the README.
+- **Verification**:
+  - Executed `verify_readme.py`: 10 Markdown tables validated for column parity; 82 unique public GitHub repo links verified against live `gh repo list` data; 0 private repo leaks; 5 `/releases` links verified to have >= 1 published release; all `github.io` Pages URLs plus new/updated Vercel demos (`research-journal-kappa.vercel.app`, `anicult.vercel.app`, `cine-gemini.vercel.app`) returned HTTP 200.
