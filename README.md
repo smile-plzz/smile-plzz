@@ -231,3 +231,26 @@ Most projects here are experiments, prototypes or research artifacts rather than
 Some people collect bookmarks for ideas. I appear to collect repositories. Some reach production; others achieve the more peaceful state of abandonment.
 
 > **Current pattern:** research → prototype → deploy → discover three new problems → open another repo → repeat until the heat death of the universe or GitHub changes its pricing, whichever comes first.
+
+<!--
+AGENT UPDATE PROMPT (smile-plzz/smile-plzz Profile README):
+Last synced: 2026-11-12 (check GitHub activity after 2026-11-11T19:37:23Z).
+
+1. FETCH LIVE DATA (never rely on cached JSON files):
+   - Use `gh repo list smile-plzz` and batched `gh api graphql` queries across all repositories.
+   - Filter strictly to `visibility == "PUBLIC"`. NEVER include private repository names, URLs, counts, or unreleased private work anywhere in this file.
+   - For each repo collect: `createdAt[:10]`, `pushedAt[:10]` (use `pushedAt` as Updated, NOT `updatedAt` which shifts on metadata/rename edits), `defaultBranchRef.target.history.totalCount` (commits), `primaryLanguage.name`, `releases.totalCount`, `homepageUrl`, and non-default branches in `refs/heads/` (note newer active source branches like `Luma` v0.7.0, but ignore `gh-pages` deployment branches).
+   - Check `/languages` for pure-Markdown/research repos where `primaryLanguage` is null (label as `Markdown`) or multi-language paper repos (e.g., `Python / HTML`, `HTML / Python / TeX`).
+
+2. AUDIT DIFF & UPDATE CONTENT:
+   - Identify newly created public repos, major pushes/PR merges/releases, renamed repos (canonical `-web-app`, `-paper`, `-windows-software`, `-android-app` suffixes), and updated `homepageUrl` or GitHub Pages URLs since the last sync date above.
+   - Keep Ismail's authentic witty, self-deprecating voice intact; do NOT corporate-wash the intro, section taglines, "The AI Dependency Lifecycle", or "The Pipeline & Coping Mechanisms".
+   - Preserve existing project listings cohesively while adding new builds to "Recent Builds" and the matching category table.
+   - Update "## 📊 Git Context & Effort Snapshot": snapshot date, public/featured repo counts, total default-branch commits, published release counts, primary stack counts, and featured commit-effort buckets (1 to 10, 11 to 49, 50+).
+   - Update every table row's `Git Context` cell (`**N commits** · \`Stack\` · R releases<br>Created \`YYYY-MM-DD\` · Updated \`YYYY-MM-DD\``), keeping bundled multi-repo rows broken out per repo with `<br>`.
+   - Ensure `/releases` links only exist on repos with `releases.totalCount > 0`, and check that GitHub Pages (`smile-plzz.github.io/...`) and newly added live URLs return HTTP 200 (use IPv4 `curl -4` on Windows to avoid IPv6 timeouts).
+
+3. VERIFY, LOG & SHIP:
+   - Validate all Markdown tables for column parity, exact date/commit match against live GraphQL data, 0 broken repo links, and 0 private repo leaks.
+   - Update `context.md`, `CHANGELOG.md`, and `dev-log.md` with timestamped entries and verification results, then commit and push to `origin/main`.
+-->

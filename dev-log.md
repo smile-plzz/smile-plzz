@@ -59,3 +59,11 @@
   - Added a `Git Context` column to all 10 tables covering all 82 featured repos (including multi-repo rows like `TCRA V4/V3/V2/V1`, `HiveMind`, `Brainstorm.AI`, `NowShowing/Stream/TV`, `PillPal/Tracker/Impact`, and `Time Capsule V2/V1`), plus inline stats on `Research Journal` and release links on `TV Bridge`.
 - **Verification**:
   - Executed `verify_git_context.py`: 10 tables and 78 data rows validated for column parity; all 82 unique public repo links and 6 `/releases` links verified against live GraphQL snapshot data (`repo_git_stats.json`), confirming exact `createdAt`, `pushedAt`, and commit count match for every repo in every row with 0 private repo leaks.
+
+## 2026-11-12 02:23:00 +06:00 - Add Reusable Agent Update Prompt Comment to README
+- **Task**: Add a hidden HTML comment prompt to `README.md` so future sessions can pick up from the `2026-11-12` checkpoint and apply consistent updates.
+- **Changes**:
+  - Appended `<!-- AGENT UPDATE PROMPT ... -->` at the bottom of `README.md` covering the sync cutoff, live GraphQL/REST query rules (`pushedAt` vs `updatedAt`, branch handling, `/languages` fallback), public-only privacy rules, voice preservation, `Git Context` & snapshot formatting, and doc/verification workflow.
+  - Updated `context.md`, `CHANGELOG.md`, and `dev-log.md`.
+- **Verification**:
+  - Verified HTML comment syntax (no internal `--` sequences), re-ran `verify_git_context.py` (`10` tables, `78` data rows, `82` unique public repos, `6` release links, `0` private leaks).

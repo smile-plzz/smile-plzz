@@ -4,6 +4,7 @@ All notable changes to the `smile-plzz` GitHub Profile README will be documented
 
 ## [Unreleased]
 ### Added
+- **Agent Maintenance Prompt (`README.md`)**: Added a hidden HTML comment block at the bottom of `README.md` with sync checkpoint (`2026-11-12`), live GraphQL/REST fetch instructions, privacy/tone rules, `Git Context` formatting rules, and verification steps for future updates.
 - **Git Context & Effort Snapshot**: Added a portfolio-wide snapshot section (`119` public repos, `82` featured, `2,820` public default-branch commits / `2,195` across featured repos, `24` published releases, primary stack breakdown, and commit-effort distribution buckets).
 - **Per-Repo `Git Context` Column**: Added `Git Context` to all 10 tables showing creation date, latest git push date, default-branch commit count (plus active non-default branches where newer, e.g. Luma `v0.7.0`), primary stack/language, and release counts for every repository mentioned (including all multi-repo rows).
 - **TV Bridge Releases Link**: Surfaced `TV-Bridge-android-app-TV` (`2` published releases) inline in `Android & Appliance Hardware`.
